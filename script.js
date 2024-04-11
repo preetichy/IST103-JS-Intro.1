@@ -1,18 +1,14 @@
 alert("Hello World");
-let toDoList = [
-  "Complete assignment ",
-  "Study for upcoming exam",
-  "Go grocery shopping",
-  "Watch Netflix",
-  "Night Walk",
-];
-let Doll = {
-  type: "Duck",
-  color: "Yellow",
-  brand: "Peach",
-  hasAccessories: true,
-  accessories: ["Dress", "Cap", "Tail"],
-  play: function () {
-    console.log("Playing with the " + this.type);
-  },
-};
+// alert("Hello World");
+let name = "Sumina"; // string
+let age = 20; // integer
+let isStudent = true; // boolean
+let height = 154; // floating-point number
+let hobbies = ["singing", "dancing", "playing cooking"]; // array
+let address = {
+  street: "123 6283 Cghester St",
+  city: "Vancouver",
+  zip: "V5W3C2",
+}; // object
+let job = null; // null
+let spouse; // undefined
