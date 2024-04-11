@@ -39,3 +39,14 @@ let toDoList = [
   "Go to college",
   "Night walk",
 ];
+
+let doll = {
+  type: "Barbie Doll",
+  color: "Pink",
+  brand: "Peach",
+  hasAccessories: true,
+  accessories: ["Dress", "Shoes", "Purse"],
+  play: function () {
+    console.log("Playing with the " + this.type);
+  },
+};
