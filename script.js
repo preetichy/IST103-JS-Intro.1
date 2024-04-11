@@ -31,3 +31,11 @@ console.log(
 console.log("Person's job status is " + job);
 console.log("Person's spouse status is " + spouse);
 console.log("The speed of light is " + SPEED_OF_LIGHT + " meters per second");
+
+let toDoList = [
+  "Complete assignment ",
+  "Practise coding",
+  "Go grocery shopping",
+  "Go to college",
+  "Night walk",
+];
